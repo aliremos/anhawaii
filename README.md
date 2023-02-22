@@ -1,4 +1,4 @@
 # anhawaii
 just a landing page
-Created by Alireza M
+Created by Alireza
 RA at JABSOM
